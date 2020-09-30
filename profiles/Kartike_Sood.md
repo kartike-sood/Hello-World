@@ -1,12 +1,11 @@
 ## Name
 Kartike Sood
 
-##Bio
+## Bio
 I am an enthusiastic programmer, currently doing my B.Tech from NIT Jalandhar, India in EC(Electronics and Communication)
 
 ## Location
 Punjab, India
-Home Sweet Home.
 
 ### Projects
 I am just an intermediate programmer, so I am just starting to build my first project.
